@@ -24,11 +24,11 @@ Nas imagens deste site são todas responsivas, darei um exemplo de outros aparel
 
 ## Ipad PRO 11
 
-  ![Ipad PRO 11](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.02.png) \
+  ![Ipad PRO 11](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.02.png) 
 
 ## Iphone 14 plus
 
-![Iphone 14 plus](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.03.png) \
+![Iphone 14 plus](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.03.png) 
   
 
 
