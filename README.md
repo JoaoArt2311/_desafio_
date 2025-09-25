@@ -8,7 +8,7 @@ Este é o repositório do site **Desafio Android**, um espaço dedicado a explor
 
 ## O que possui o site
 1. A cor utilizada: #84E1AD.
-2. As fontes utilizadas:
+2. As fontes utilizadas: \
    ('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap'); \
    ('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap'); \
    ('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap'); \
