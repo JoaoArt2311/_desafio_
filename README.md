@@ -28,7 +28,7 @@ Nas imagens deste site são todas responsivas, darei um exemplo de outros aparel
 
 ## Iphone 14 plus
 
-![Iphone 14 plus].()
+![Iphone 14 plus](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.03.png) \
   
 
 
