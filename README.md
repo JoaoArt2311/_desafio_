@@ -6,7 +6,7 @@
 
 Este é o repositório do site **Desafio Android**, um espaço dedicado a explorar os meus conhecimentos básicos em Html e CSS. O projeto foi criado com o objetivo de ampliar meus conhecimentos em html5 e CSS3.
 
-## O que possui o site
+## O que possui no site
 1. A cor utilizada: #84E1AD.
 2. As fontes utilizadas: \
    ('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap'); \
