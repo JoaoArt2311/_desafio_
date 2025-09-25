@@ -15,7 +15,11 @@ Este é o repositório do site **Desafio Android**, um espaço dedicado a explor
    ('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap'); \
    ('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap'); \
    ('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'); \
-3. As imagens utilizadas estão no meu repositório na pasta "pacote-projeto-d010"
+3. As imagens utilizadas estão no meu repositório na pasta "pacote-projeto-d010" \
+4. As cores utilizadas:
+   * #0a5f0a; \
+   * #84E1AD; \
+   * #ffffff; \
 Este projeto foi inspirado no curso de Html e CSS - Curso em Video, pelo o fera Gustavo Guanabara.
 
 http://googleusercontent.com/image_generation_content/0
