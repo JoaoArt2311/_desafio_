@@ -10,12 +10,12 @@ Este é o repositório do site **Desafio Android**, um espaço dedicado a explor
 
 ## O que possui no site
 1. A cor utilizada no body: #84E1AD.
-2. As fontes utilizadas: \
-   * ('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap'); \
-   * ('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap'); \
-   * ('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap'); \
-   * ('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'); \
-3. As imagens utilizadas estão no meu repositório na pasta "pacote-projeto-d010" \
+2. As fontes utilizadas: 
+   * 'https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap'
+   * 'https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap'
+   * 'https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap'
+   * 'https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'
+3. As imagens utilizadas estão no meu repositório na pasta "pacote-projeto-d010" 
 4. As cores utilizadas:
    * #0a5f0a; 
    * #84E1AD; 
