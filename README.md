@@ -35,4 +35,4 @@ Nas imagens deste site são todas responsivas, darei um exemplo de outros aparel
 
 Este projeto foi inspirado no curso de Html e CSS - Curso em Video, pelo o fera Gustavo Guanabara.
 
-http://googleusercontent.com/image_generation_content/0
+![Banner do Projeto](https://placehold.co/1200x400/2ecc71/ffffff?text=Curiosidades+de+Tecnologia)
