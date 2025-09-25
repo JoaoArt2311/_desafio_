@@ -23,8 +23,11 @@ Este é o repositório do site **Desafio Android**, um espaço dedicado a explor
 Nas imagens deste site são todas responsivas, darei um exemplo de outros aparelhos que meu site apareça: \
 
 ## Ipad PRO 11
-
+<div align="center">
   ![Ipad PRO 11](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.02.png) 
+</div>
+  
+
 
 
 Este projeto foi inspirado no curso de Html e CSS - Curso em Video, pelo o fera Gustavo Guanabara.
