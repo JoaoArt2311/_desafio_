@@ -24,9 +24,7 @@ Nas imagens deste site são todas responsivas, darei um exemplo de outros aparel
 
 ## Ipad PRO 11
 <p align="center">
-  
-![Ipad PRO 11](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.02.png)
-
+![Ipad PRO 11](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.02.png);
 </p>
 
 Este projeto foi inspirado no curso de Html e CSS - Curso em Video, pelo o fera Gustavo Guanabara.
