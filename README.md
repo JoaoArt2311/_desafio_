@@ -20,6 +20,8 @@ Este é o repositório do site **Desafio Android**, um espaço dedicado a explor
    * #0a5f0a; 
    * #84E1AD; 
    * #ffffff; \
+Nas imagens deste site são todas responsivas, darei um exemplo de outros aparelhos que meu site apareça: \
+
 Este projeto foi inspirado no curso de Html e CSS - Curso em Video, pelo o fera Gustavo Guanabara.
 
 http://googleusercontent.com/image_generation_content/0
