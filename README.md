@@ -31,7 +31,7 @@ Nas imagens deste site são todas responsivas, darei um exemplo de outros aparel
 ![Iphone 14 plus](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.03.png) 
   
 
-
+https://joaoart2311.github.io/_desafio_/ 
 
 Este projeto foi inspirado no curso de Html e CSS - Curso em Video, pelo o fera Gustavo Guanabara.
 
