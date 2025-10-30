@@ -4,6 +4,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Turret+Road:wght@200;300;400;500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 
 @font-face {
     font-family: 'Android';
@@ -11,7 +14,7 @@
 }
 
 h1{
-    font-family:"Inter", sans-serif;
+    font-family:"Orbitron", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
@@ -33,7 +36,7 @@ a{
 }
 
 a:hover{
-    background-color: #015023;
+    background-color: #06e6673b;
     transition-duration: 1s;
 }
 
@@ -51,6 +54,7 @@ abbr{
 
 
 h3#title{
+    font-family: "Turret Road", sans-serif;
     text-align: center;
     font-size: 15px;
     color: white;
@@ -122,6 +126,12 @@ div#Fim_site{
     margin-left: -8px;
     margin-right: -8px;
     
+}
+
+div#menu{
+    font-family:"Staatliches", sans-serif; 
+    text-align: center;
+    padding-top: 15px;
 }
 
 p#Ultimo{

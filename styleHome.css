@@ -2,7 +2,8 @@
 
 /*Fontes*/
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif+Caption:ital@0;1&display=swap');
 
 h1#cabecalhoPrincipal{
     font-family:"Orbitron", sans-serif;
@@ -39,11 +40,19 @@ img#androidDescolado{
     padding-bottom: 30px;
 }
 
+p#Citação{
+    font-family: "PT Serif Caption", serif;
+    text-shadow: 1px 1px black;
+    color: rgb(43, 107, 41);
+    font-size: 27px;
+}
+
 div#linksPrincipais{
     font-family: "Staatliches", sans-serif;
     text-decoration: none;
     text-align: center;
     font-size: 20px;
+   
 }
 
 
@@ -52,4 +61,13 @@ div#Cabecalho{
     margin: -8px;
     margin-top: -34px;
     box-shadow: 2px 3px 16px 1px black;
+}
+
+div#navegação{
+    background-color: #46f190;
+    font-family: "Orbitron", sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 37px;
+    padding-bottom: 15px;
 }
