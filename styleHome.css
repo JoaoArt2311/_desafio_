@@ -71,3 +71,12 @@ div#navegação{
     font-size: 37px;
     padding-bottom: 15px;
 }
+
+div#Corpo{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+img#minhaFoto{
+    border-radius: 340px;
+}
