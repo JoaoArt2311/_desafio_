@@ -1,0 +1,124 @@
+/*Fontes*/
+
+/*Fonte do P*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+/*Fonte das NAV*/
+@import url('https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+JP+N&display=swap');
+
+/*Fonte da h1*/
+@font-face {
+    font-family: "Android";
+    src: url(pacote-projeto-d010/fontes/idroid.otf) format(opentype);
+}
+
+/*Fonte do h2*/
+@font-face { 
+    font-family: "Machinery" ;
+    src: url(pacote-projeto-d010/fontes/MachineryScript_PERSONAL_USE_ONLY.otf) format(opentype); 
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background-color:#84E1AD;
+}
+
+header{
+    background-color: #00ad4b;
+}
+
+nav{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    border-radius: 35%;
+}
+
+h1{
+    font-family: "Android";
+    color: white;
+    text-align: center;
+    font-size: 75px;
+    padding-top: 25px;
+}
+
+h2{
+    font-family: "Machinery";
+    text-align: center;
+    color: white;
+    font-size: 55px;
+    padding-top: 25px;
+    margin-bottom: 20px;
+}
+
+p{
+    color: white;
+    padding-top: 25px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 26px;
+    flex: 1;
+    text-align: left;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a.links{
+    padding-left: 80px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 25px;
+    font-family: "WDXL Lubrifont JP N", sans-serif;
+}
+
+div#Conteudo{
+    background-color: rgb(20, 80, 15);
+    margin-top: 15px;
+    max-width: 1500px;
+    min-width: none;
+    margin: auto;
+}
+
+.quem-desenvolveu{
+  background-color: #0f460f;
+  color: white;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.conteudo{
+  display: flex;                  
+  align-items: center;            
+  justify-content: center;        
+  gap: 40px;                      
+  max-width: 1000px;              
+  margin: 0 auto;                 
+  text-align: left;               
+  flex-wrap: wrap;
+}
+
+.texto{
+  flex: 1;                        
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.foto img{
+  width: 250px;             
+  height: 250px;
+  border-radius: 50%;             
+  object-fit: cover;  
+}
