@@ -31,16 +31,17 @@ body{
 
 header{
     background-color: #00ad4b;
+    box-shadow: 1px 5px 20px black;
 }
 
 nav{
     text-align: center;
 }
 
-img{
+img#android{
     display: block;
     margin: 0 auto;
-    width: 300px;
+    width: 216px;
     height: auto;
     border-radius: 35%;
 }
@@ -92,6 +93,15 @@ div#Conteudo{
     margin: auto;
 }
 
+div.logo{
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+   gap: 10px;
+   margin-top: 15px;
+   background-color: white;
+}
+
 .quem-desenvolveu{
   background-color: #0f460f;
   color: white;
@@ -117,8 +127,8 @@ div#Conteudo{
 }
 
 .foto img{
-  width: 250px;             
-  height: 250px;
-  border-radius: 50%;             
+  width: 300px;             
+  height: 300px;
+  border-radius: 100%;             
   object-fit: cover;  
 }
