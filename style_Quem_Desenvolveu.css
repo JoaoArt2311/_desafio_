@@ -24,6 +24,10 @@
     margin: 0;
 }
 
+main{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
 
 body{
     background-color:#84E1AD;
@@ -82,6 +86,21 @@ a{
     color: white;
 }
 
+ul{
+    text-align: center;
+}
+
+img.androidSemOculos{
+    height: auto;
+    width: 200px;
+}
+
+img.androidSemOculos2{
+    height: auto;
+    width: 200px;
+    float: left;
+}
+
 a.links{
     padding-left: 80px;
     margin-right: auto;
@@ -96,6 +115,7 @@ div#Conteudo{
     max-width: 1500px;
     min-width: none;
     margin: auto;
+    box-shadow: 3px 4px 30px black;
 }
 
 div.logo{
@@ -107,11 +127,30 @@ div.logo{
    margin-top: -6px;
 }
 
+div.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 350px;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+    
+}
+
 .quem-desenvolveu{
   background-color: #0f460f;
   color: white;
   text-align: center;
   padding: 40px 0;
+  border-radius: 50px;
+  background-color: rgb(20, 80, 15);
+  margin-top: 15px;
+  max-width: 1500px; 
+  min-width: none;
+  margin: auto;
+  box-shadow: 3px 4px 30px black;
 }
 
 .conteudo{
