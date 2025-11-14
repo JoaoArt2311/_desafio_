@@ -30,7 +30,6 @@ main{
 }
 
 body{
-    overflow: hidden;
     background-color:#84E1AD;
 }
 
@@ -92,23 +91,20 @@ ul{
 }
 
 textarea{
-    width: 100%;
-    max-width: 100%;
-    min-height: 150px;
-    padding: 12px;
-    border-radius: 10px;
-    border: none;
-    outline: none;
-    transition: 0.3s;
-    background: #e8ffe8;
-    font-size: 18px;
-    resize: vertical;
-    
+    margin-top: 10px;
+    width: 50%;
+    height: 110px;
+    padding-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    resize: none;
 }
 
 textarea:focus{
     background: #fff;
-    box-shadow: 0 0 0 2px #12bb3c;
+    box-shadow: 0 0 0 5px #12bb3c;
 }
 
 label{
@@ -128,6 +124,7 @@ img.androidSemOculos2{
     height: auto;
     width: 200px;
     float: left;
+
 }
 
 a.links{
@@ -160,50 +157,41 @@ div.footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 40px;
-    flex-wrap: wrap;
+    gap: 350px;
     max-width: 1000px;
     margin: 0 auto;
     text-align: center;
-    width: 100%;
-    padding: 20px 0;
+    width: 80%;
     
-}
-
-.footer ul{
-    padding: 0;
 }
 
 .quem-desenvolveu{
   background-color: #0f460f;
   color: white;
   text-align: center;
-  padding: 30px 20px;
+  padding: 40px 0;
   border-radius: 50px;
   background-color: rgb(20, 80, 15);
   margin-top: 15px;
-  max-width: 900px;
-  width: 90%; 
+  max-width: 1500px; 
   min-width: none;
-  margin: 20px auto;
+  margin: auto;
   box-shadow: 3px 4px 30px black;
 }
 
 .conteudo{
   display: flex;                  
-  flex-wrap: wrap;
   align-items: center;            
   justify-content: center;        
-  gap: 25px;                      
+  gap: 40px;                      
   max-width: 1000px;              
   margin: 0 auto;                 
-  text-align: center;               
+  text-align: left;               
   flex-wrap: wrap;
 }
 
 .texto{
-  flex: 1 1 300px;
-  text-align: left;                        
+  flex: 1;                        
   font-size: 18px;
   line-height: 1.5;
 }
@@ -214,67 +202,4 @@ div.footer{
   border-radius: 100%;             
   object-fit: cover;  
   border: 10px solid white;
-}
-
-@media (max-width: 768px) {
-
-    h1 {
-        font-size: 40px;
-    }
-
-    p {
-        font-size: 20px;
-        padding: 0 10px;
-        text-align: center;
-    }
-
-    /* Foto menor */
-    .foto img {
-        width: 200px;
-        height: 200px;
-    }
-
-    /* Logos menores */
-    .logo img {
-        width: 35px;
-        height: 35px;
-    }
-
-    /* Navegação desce para baixo */
-    nav a {
-        font-size: 20px;
-        padding: 5px 0;
-    }
-
-    /* Footer empilhado */
-    .footer {
-        flex-direction: column;
-        gap: 15px;
-    }
-
-    .androidSemOculos, 
-    .androidSemOculos2 {
-        width: 150px;
-    }
-}
-
-/* Telas muito pequenas */
-@media (max-width: 450px) {
-
-    h1 {
-        font-size: 32px;
-    }
-
-    textarea {
-        min-height: 120px;
-    }
-
-    p {
-        font-size: 18px;
-    }
-
-    .foto img {
-        width: 160px;
-        height: 160px;
-    }
 }
