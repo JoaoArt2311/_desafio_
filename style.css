@@ -7,6 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Turret+Road:wght@200;300;400;500;700;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+JP+N&display=swap');
 
 @font-face {
     font-family: 'Android';
@@ -30,9 +31,8 @@ a{
     text-decoration: none;
     color: white;
     padding-left: 5px;
-    font-size: 15px;
-    font-family: "Lato", sans-serif;
-    font-weight: bold;
+    font-size: 18px;
+    font-family:  "WDXL Lubrifont JP N", sans-serif;
 }
 
 a:hover{
@@ -61,10 +61,10 @@ h3#title{
 }
 
 div.Cabeçalho{
-    background-image: linear-gradient(to top, black -82% ,#46f190 100% );
+    background-color: #00ad4b;
+    box-shadow: 1px 5px 20px black;
     margin: -8px;
     margin-top: -23px;
-    box-shadow: 2px 3px 16px 1px black;
 }
 
 div.corpo{

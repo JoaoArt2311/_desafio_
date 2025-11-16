@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+/*Fonte do h1*/
+@font-face {
+    font-family: "Android";
+    src: url(pacote-projeto-d010/fontes/idroid.otf) format(opentype);
+}
+
+body{
+    background-color:#84E1AD;
+}
+
+header{
+    margin: auto;
+    margin-top: -15px;
+    background-color: #00ad4b;
+    box-shadow: 1px 5px 20px black;
+}
+
+section{
+    background-color: rgb(20, 80, 15);
+}
+
+h1{
+    font-family: "Android";
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+    padding-bottom: 15px;
+    font-size: 75px;
+}
+
+img{
+    width: 75px;
+}

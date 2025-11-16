@@ -40,6 +40,7 @@ header{
 
 nav{
     text-align: center;
+    padding-bottom: 15px;
 }
 
 footer{
@@ -86,25 +87,47 @@ a{
     color: white;
 }
 
+a:hover{
+    text-decoration: underline;
+}
+
 ul{
     text-align: center;
 }
 
+li{
+    font-family: "WDXL Lubrifont JP N", sans-serif;
+}
+
 textarea{
-    margin-top: 10px;
-    width: 50%;
-    height: 110px;
-    padding-top: 5px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    width: 70%;
+    margin-top: 15px;
+    height: 120px;
+    padding: 15px;
+    border-radius: 12px;
+    border: 2px solid #ccc;
+    outline: none;
     font-size: 16px;
-    font-family: Arial, sans-serif;
+    font-family: "Poppins", sans-serif;
+    transition: 0.3s;
     resize: none;
 }
 
 textarea:focus{
     background: #fff;
     box-shadow: 0 0 0 5px #12bb3c;
+}
+
+button{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    margin-top: 15px;
+    border-radius: 25px;
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: #12bb3c;
+    box-shadow: none;
 }
 
 label{
@@ -128,7 +151,7 @@ img.androidSemOculos2{
 }
 
 a.links{
-    padding-left: 80px;
+    padding-left: 50px;
     margin-right: auto;
     margin-left: auto;
     font-size: 25px;
@@ -156,9 +179,9 @@ div.logo{
 div.footer{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     gap: 350px;
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 0 auto;
     text-align: center;
     width: 80%;
@@ -202,4 +225,55 @@ div.footer{
   border-radius: 100%;             
   object-fit: cover;  
   border: 10px solid white;
+}
+
+@media (max-width: 400px) {
+    div.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    
+}
+    img.androidSemOculos{
+    height: auto;
+    width: 80px;
+}
+
+    img.androidSemOculos2{
+    height: auto;
+    width:  80px;
+    float: left;
+
+}
+    div#Conteudo{
+    background-color: rgb(20, 80, 15);
+    margin-top: 15px;
+    max-width: 90%;
+    min-width: none;
+    margin: auto;
+    box-shadow: 3px 4px 30px black;
+}
+
+    .texto{
+    padding: 25px;
+    flex: 1;                        
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+    a.links{
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-right: auto;
+        margin-left: auto;
+        font-size: 17px;
+        font-family: "WDXL Lubrifont JP N", sans-serif;
+    }
+
 }
