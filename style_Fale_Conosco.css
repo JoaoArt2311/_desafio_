@@ -22,7 +22,12 @@ header{
 }
 
 section{
-    background-color: rgb(20, 80, 15);
+    background-color: white;
+    margin-left: 30rem;
+    margin-right: 30rem;
+    box-shadow: 3px 4px 30px black;
+    border-radius: 32px;
+    margin-top: 15px;
 }
 
 h1{
@@ -36,4 +41,15 @@ h1{
 
 img{
     width: 75px;
+    margin: 15px 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.logos{
+    display: block;
+    text-align: center;
 }
