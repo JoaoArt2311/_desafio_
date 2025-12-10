@@ -21,10 +21,14 @@ header{
     box-shadow: 1px 5px 20px black;
 }
 
+main{
+    margin-top: 15%;
+}
+
 section{
     background-color: white;
     text-align: center;
-    padding: 40px 0;
+    padding: 50px;
     border-radius: 50px;
     margin-top: 15px;
     max-width: 1500px; 
@@ -43,16 +47,20 @@ h1{
     font-size: 75px;
 }
 
-.instagram{
-    display: block;
-    width: 60px;
-    margin-left: auto;
-    margin-right: auto;
+img{
+    width: 145px;
 }
 
-.logos{
-    display: block;
-    width: 50px;
-    margin-left: auto;
-    margin-right: auto;
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+nav{
+    text-align: center;
 }
