@@ -1,67 +1,93 @@
-*{
-    margin: 0;
-    padding: 0;
-
+* {
+  margin: 0;
+  padding: 0;
 }
 
 /*Fonte do h1*/
 @font-face {
-    font-family: "Android";
-    src: url(pacote-projeto-d010/fontes/idroid.otf) format(opentype);
+  font-family: "Android";
+  src: url(pacote-projeto-d010/fontes/idroid.otf) format(opentype);
 }
 
-body{
-    background-color:#84E1AD;
+/*Fonte do Nav*/
+@import url("https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+JP+N&display=swap");
+
+body {
+  background-color: #84e1ad;
 }
 
-header{
-    margin: auto;
-    margin-top: -15px;
-    background-color: #00ad4b;
-    box-shadow: 1px 5px 20px black;
+header {
+  margin: auto;
+  margin-top: -15px;
+  background-color: #00ad4b;
+  box-shadow: 1px 5px 20px black;
 }
 
-main{
-    margin-top: 15%;
+main {
+  margin-top: 8%;
 }
 
-section{
-    background-color: white;
-    text-align: center;
-    padding: 50px;
-    border-radius: 50px;
-    margin-top: 15px;
-    max-width: 1500px; 
-    min-width: none;
-    margin: auto;
-    box-shadow: 3px 4px 30px black;
+section {
+  background-color: white;
+  text-align: center;
+  padding: 50px;
+  border-radius: 50px;
+  margin-top: 15px;
+  max-width: 1500px;
+  min-width: none;
+  margin: auto;
+  box-shadow: 3px 4px 30px black;
 }
 
-
-h1{
-    font-family: "Android";
-    color: white;
-    text-align: center;
-    margin-top: 15px;
-    padding-bottom: 15px;
-    font-size: 75px;
+h1 {
+  font-family: "Android";
+  color: white;
+  text-align: center;
+  margin-top: 15px;
+  padding-bottom: 15px;
+  font-size: 75px;
 }
 
-img{
-    width: 145px;
+img {
+  width: 145px;
+  padding-right: 16px;
+  padding-bottom: 16px;
 }
 
-a{
-    text-decoration: none;
-    color: white;
-    font-size: 25px;
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 22px;
+  font-family: "WDXL Lubrifont JP N", sans-serif;
 }
 
-a:hover{
-    text-decoration: underline;
+a:hover {
+  text-decoration: underline;
 }
 
-nav{
-    text-align: center;
+nav {
+  text-align: center;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
 }
 
+footer {
+  background-color: black;
+  margin-top: 40px;
+  padding-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+}
+
+.menu_footer {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.links_footer {
+  padding-bottom: 15px;
+}
