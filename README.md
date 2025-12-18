@@ -39,6 +39,12 @@ Fiz algumas atualizações novas no projeto, coloquei mais paginas de acesso ao 
 ### Desktop
 ![Desktop](https://github.com/JoaoArt2311/_desafio_/blob/main/img/Macbook2-Air-joaoart2311.github.io.png)
 
+Novidades: 
+* Todas as logos das linguagens são clicaveis.
+* A minha foto e clicavel -> "leva para o meu instagram pessoal"
+* Possui um textera, ainda com funcionalidade basica.
+* E possui um footer muito simples.
+
 
 https://joaoart2311.github.io/_desafio_/ 
 
