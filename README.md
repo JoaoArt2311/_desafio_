@@ -51,7 +51,12 @@ Novidades:
 ### Fale Conosco 
 
 #### Desktop
-![Desktop]()
+![Desktop](https://github.com/JoaoArt2311/_desafio_/blob/main/img/Macbook3-Air-joaoart2311.github.io%20(1).png)
+
+Novidades: 
+* As logos das redes sociais, são todas clicaveis.
+* As logos levam cada uma para as minhas redes socias mostrada nas logos.
+* Possui um footer simples.
 
 https://joaoart2311.github.io/_desafio_/ 
 
