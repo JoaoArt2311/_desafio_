@@ -34,9 +34,9 @@ Nas imagens deste site são todas responsivas, darei um exemplo de outros aparel
 
 Fiz algumas atualizações novas no projeto, coloquei mais paginas de acesso ao site, com uma maior interatividade, algumas das paginas acresentadas foi:
 
-## Quem Desenvolveu?
+### Quem Desenvolveu?
 
-### Desktop
+#### Desktop
 ![Desktop](https://github.com/JoaoArt2311/_desafio_/blob/main/img/Macbook2-Air-joaoart2311.github.io.png)
 
 Novidades: 
