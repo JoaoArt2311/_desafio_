@@ -34,11 +34,19 @@ Nas imagens deste site são todas responsivas, darei um exemplo de outros aparel
 
 Fiz algumas atualizações novas no projeto, coloquei mais paginas de acesso ao site, com uma maior interatividade, algumas das paginas acresentadas foi:
 
-## Quem Desenvolveu?
+### Quem Desenvolveu?
 
-### Desktop
-![Desktop]()
+#### Desktop
+![Desktop](https://github.com/JoaoArt2311/_desafio_/blob/main/img/Macbook2-Air-joaoart2311.github.io.png)
 
+Novidades: 
+* Todas as logos das linguagens são clicaveis.
+* A minha foto e clicavel -> "leva para o meu instagram pessoal"
+* Possui um textera, ainda com funcionalidade basica.
+* E possui um footer muito simples.
+
+#### Mobile
+![Iphone 14]()
 
 https://joaoart2311.github.io/_desafio_/ 
 
