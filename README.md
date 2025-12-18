@@ -29,7 +29,16 @@ Nas imagens deste site são todas responsivas, darei um exemplo de outros aparel
 ## Iphone 14 plus
 
 ![Iphone 14 plus](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.03.png) 
-  
+
+## Atualização (18/12/2025)
+
+Fiz algumas atualizações novas no projeto, coloquei mais paginas de acesso ao site, com uma maior interatividade, algumas das paginas acresentadas foi:
+
+## Quem Desenvolveu?
+
+### Desktop
+![Desktop]()
+
 
 https://joaoart2311.github.io/_desafio_/ 
 
