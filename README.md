@@ -25,7 +25,7 @@ Nas imagens deste site são todas responsivas, darei um exemplo de outros aparel
 ## Ipad PRO 11
 
 <p align="center">
-  ![Ipad PRO 11](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.02.png) 
+  <img src="https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.02.png" />
 </p>
 
 ## Iphone 14 plus
