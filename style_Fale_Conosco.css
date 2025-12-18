@@ -25,6 +25,7 @@ header {
 
 main {
   margin-top: 8%;
+  margin-bottom: 8%;
 }
 
 section {
@@ -90,4 +91,18 @@ footer {
 
 .links_footer {
   padding-bottom: 15px;
+}
+
+
+@media screen and (max-width: 768px) {
+  a{
+    font-size: 17px;
+    font-family:"WDXL Lubrifont JP N", sans-serif; 
+  }
+  footer{
+    flex-direction: column;
+  }
+  .img_footer{
+    text-align: center;
+  }
 }
