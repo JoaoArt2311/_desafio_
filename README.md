@@ -34,9 +34,9 @@ Nas imagens deste site são todas responsivas, darei um exemplo de outros aparel
 
 Fiz algumas atualizações novas no projeto, coloquei mais paginas de acesso ao site, com uma maior interatividade, algumas das paginas acresentadas foi:
 
-### Quem Desenvolveu?
+## Quem Desenvolveu?
 
-# Iphone 14
+### Iphone 14
 ![Iphone 14]()
 
 
