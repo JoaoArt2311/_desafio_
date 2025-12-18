@@ -37,7 +37,7 @@ Fiz algumas atualizações novas no projeto, coloquei mais paginas de acesso ao 
 ## Quem Desenvolveu?
 
 ### Desktop
-![Desktop]()
+![Desktop](https://github.com/JoaoArt2311/_desafio_/blob/main/img/Macbook2-Air-joaoart2311.github.io.png)
 
 
 https://joaoart2311.github.io/_desafio_/ 
