@@ -30,7 +30,9 @@ Nas imagens deste site são todas responsivas, darei um exemplo de outros aparel
 
 ## Iphone 14 plus
 
-![Iphone 14 plus](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.03.png) 
+<p align="center">
+  <img src= "https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.03.png" />
+</p>
 
 ## Atualização (18/12/2025)
 
@@ -48,7 +50,10 @@ Novidades:
 * E possui um footer muito simples.
 
 #### Mobile
-![Iphone 14](https://github.com/JoaoArt2311/_desafio_/blob/main/img/iPhone-14-(iOS-16)-joaoart2311.github.io.png)
+
+<p align="center">
+  <img src="https://github.com/JoaoArt2311/_desafio_/blob/main/img/iPhone-14-(iOS-16)-joaoart2311.github.io.png" />
+</p>
 
 ### Fale Conosco 
 
@@ -61,7 +66,10 @@ Novidades:
 * Possui um footer simples.
 
 #### Mobile
-![Iphoe 14](https://github.com/JoaoArt2311/_desafio_/blob/main/img/iPhone2-14-(iOS-16)-joaoart2311.github.io%20(1).png)
+
+<p align="center">
+ <img src="https://github.com/JoaoArt2311/_desafio_/blob/main/img/iPhone2-14-(iOS-16)-joaoart2311.github.io%20(1).png" />
+</p>
 
 https://joaoart2311.github.io/_desafio_/ 
 
