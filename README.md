@@ -48,6 +48,11 @@ Novidades:
 #### Mobile
 ![Iphone 14](https://github.com/JoaoArt2311/_desafio_/blob/main/img/iPhone-14-(iOS-16)-joaoart2311.github.io.png)
 
+### Fale Conosco 
+
+#### Desktop
+![Desktop]()
+
 https://joaoart2311.github.io/_desafio_/ 
 
 Este projeto foi inspirado no curso de Html e CSS - Curso em Video, pelo o fera Gustavo Guanabara.
