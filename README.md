@@ -58,6 +58,9 @@ Novidades:
 * As logos levam cada uma para as minhas redes socias mostrada nas logos.
 * Possui um footer simples.
 
+#### Mobile
+![Iphoe 14]()
+
 https://joaoart2311.github.io/_desafio_/ 
 
 Este projeto foi inspirado no curso de Html e CSS - Curso em Video, pelo o fera Gustavo Guanabara.
