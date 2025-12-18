@@ -36,8 +36,8 @@ Fiz algumas atualizações novas no projeto, coloquei mais paginas de acesso ao 
 
 ## Quem Desenvolveu?
 
-### Iphone 14
-![Iphone 14]()
+### Desktop
+![Desktop]()
 
 
 https://joaoart2311.github.io/_desafio_/ 
