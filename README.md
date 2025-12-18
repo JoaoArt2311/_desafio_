@@ -45,6 +45,8 @@ Novidades:
 * Possui um textera, ainda com funcionalidade basica.
 * E possui um footer muito simples.
 
+#### Mobile
+![Iphone 14]()
 
 https://joaoart2311.github.io/_desafio_/ 
 
