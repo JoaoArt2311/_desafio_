@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-Este é o repositório do site **Desafio Android**, um espaço dedicado a explorar os meus conhecimentos básicos em Html e CSS. O projeto foi criado com o objetivo de ampliar meus conhecimentos em html5 e CSS3.
+Este é o repositório do site **Desafio Android**, um espaço dedicado a explorar os meus conhecimentos básicos em Html e CSS. O projeto foi criado com o objetivo de por em pratica os conhecimentos adquiridos.
 
 ![Inlustração do Site](https://github.com/JoaoArt2311/_desafio_/blob/main/img/img.01.png)
 
